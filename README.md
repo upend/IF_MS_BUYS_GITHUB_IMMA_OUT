@@ -8,7 +8,9 @@
 
 ## How to stop this
 
-**First, star this repo** as a vote to keep GitHub independent. 
+**First, star this repo** as a vote to keep GitHub independent.
+
+**Then spread the word** any way you can.
 
 If you have a way with words, please make a pull request to add to this page, or add other pages to turn this into a website. Though I kind of think the repo title speaks for itself. That and thousands of stars next to it.
 
