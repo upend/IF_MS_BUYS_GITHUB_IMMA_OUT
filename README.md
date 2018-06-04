@@ -4,7 +4,7 @@ It's done. GitHub has sold us out. But this is not the end, or even the beginnin
 
 ## status update
 
-**This repo is now [the 2nd highest trending repo](https://github.com/trending) on GitHub** and is about to surpass 1100 stars in only 2½ days of existence. Traffic is growing exponentially. Thanks to all of you spreading the word.
+**This repo is now [the 2nd highest trending repo](https://github.com/trending) on GitHub** and already 1400 stars in only 2½ days of existence. Traffic is growing exponentially. Thanks to all of you spreading the word.
 
 ![traffic](traffic.png)
 
