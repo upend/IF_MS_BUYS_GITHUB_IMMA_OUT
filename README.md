@@ -1,10 +1,8 @@
 # IF_MS_BUYS_GITHUB_IMMA_OUT
 
-[Microsoft and GitHub have held acquisition talks](http://www.businessinsider.com/2-billion-startup-github-could-be-for-sale-microsoft-2018-5)
+[Microsoft and GitHub have held acquisition talks](http://www.businessinsider.com/2-billion-startup-github-could-be-for-sale-microsoft-2018-5) ([Hacker News discussion](https://news.ycombinator.com/item?id=17208293))
 
-[Hacker News discussion](https://news.ycombinator.com/item?id=17208293)
-
-*Update(June 04):* [Microsoft is said to have agreed to acquire Github](https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github)
+*Update(June 04):* [Microsoft is said to have agreed to acquire Github](https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github) ([Hacker News discussion](https://news.ycombinator.com/item?id=17221527))
 
 
 ## How to stop this
