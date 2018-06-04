@@ -1,4 +1,4 @@
-# GitHub has sold us out. This is the GitHub Refugee Camp.
+# GitHub has sold us out. This is the GitHub Outlaw Camp.
 
 It's done. GitHub has sold us out. But this is not the end, or even the beginning of the end. The world is the way it is because people give up too soon. **#Resistance** needs persistence and **#solidarity**. If not us, then whom?
 
@@ -16,9 +16,9 @@ You all are from so many countries! That makes me happy. But also embarrassed th
 
 ## but what's the goal?
 
-The immediate goal is to be a sort of **GitHub Refugee Center.** A space for refugees to declare their status (in **protest** to GitHub, Microsoft and the world). A space to learn or share **escape routes** — the best places to move you and your projects to. (I'll create a page where we can collaborate on info like that, after I get some sleep.)
+The immediate goal is to be a sort of **GitHub Outlaw Center.** A space for outlaws to declare their status (in **protest** to GitHub, Microsoft and the world). A space to learn or share **alternative sollutions** — the best places to move you and your projects to. (I'll create a page where we can collaborate on info like that, after I get some sleep.)
 
-Long term the goal is to seed a resistance movement for a free, open and people-driven internet in service of a free, open and people-driven world.
+Long term the goal is to seed a movement for a free, open and people-driven internet in service of a free, open and people-driven world.
 
 
 
@@ -26,9 +26,9 @@ Long term the goal is to seed a resistance movement for a free, open and people-
 
 I've got to figure out how we stay connected, how best to enable collaboration. Would it be a contradiction or ironically perfect to do it on GitHub itself? If you have ideas, let me know. 
 
-Even though many of us (I hope all of us) will leave GitHub when we are able, some immediately, some only after they figure out the best alternative, it makes sense to keep this refugee camp right here on GitHub. It will serve as a line of communication to people still on GitHub. If they shut this down, it will only validate our exodus. So even if you want to cut out immediately and delete everything, **consider keeping at least a bare presence and association with this repo**, at least until we make camp elsewhere.
+Even though many of us (I hope all of us) will leave GitHub when we are able, some immediately, some only after they figure out the best alternative, it makes sense to keep this outlaw camp right here on GitHub. It will serve as a line of communication to people still on GitHub. If they shut this down, it will only validate our exodus. So even if you want to cut out immediately and delete everything, **consider keeping at least a bare presence and association with this repo**, at least until we make camp elsewhere.
 
-But you can also follow [upend.org on twitter](https://twitter.com/UpEnd_org). Or send an email to github.refugees@upend.org. 
+But you can also follow [upend.org on twitter](https://twitter.com/UpEnd_org). Or send an email to github.outlaws@upend.org. 
 
 
 
