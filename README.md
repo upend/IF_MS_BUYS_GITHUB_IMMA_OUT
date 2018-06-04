@@ -2,7 +2,7 @@
 
 It looks like [a done deal](https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github). But GitHub selling us out is not the end, or even the beginning of the end. The world is the way it is because people give up too soon. #Resistance needs persistence and #solidarity. If not us, then whom?
 
-**This repo is now [the 3rd highest trending repo](https://github.com/trending) on GitHub** and is about to surpass 1000 stars in only 2½ days of existence. Traffic is growing exponentially. Thanks to all of you spreading the word.
+**This repo is now [the 2rd highest trending repo](https://github.com/trending) on GitHub** and is about to surpass 1100 stars in only 2½ days of existence. Traffic is growing exponentially. Thanks to all of you spreading the word.
 
 ![traffic](traffic.png)
 
