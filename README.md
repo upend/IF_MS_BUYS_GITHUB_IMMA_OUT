@@ -4,6 +4,7 @@
 
 [Hacker News discussion](https://news.ycombinator.com/item?id=17208293)
 
+*Update(June 04):* [Microsoft is said to have agreed to acquire Github](https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github)
 
 
 ## How to stop this
