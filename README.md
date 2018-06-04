@@ -1,6 +1,8 @@
-## status update
+# GitHub has sold us out. This is the GitHub Refugee Camp.
 
-It looks like [a done deal](https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github). But GitHub selling us out is not the end, or even the beginning of the end. The world is the way it is because people give up too soon. #Resistance needs persistence and #solidarity. If not us, then whom?
+It's done. GitHub has sold us out. But this is not the end, or even the beginning of the end. The world is the way it is because people give up too soon. **#Resistance** needs persistence and **#solidarity**. If not us, then whom?
+
+## status update
 
 **This repo is now [the 2rd highest trending repo](https://github.com/trending) on GitHub** and is about to surpass 1100 stars in only 2½ days of existence. Traffic is growing exponentially. Thanks to all of you spreading the word.
 
@@ -8,7 +10,7 @@ It looks like [a done deal](https://www.bloomberg.com/news/articles/2018-06-03/m
 
 If you haven't already, please **star this repo**. Each star makes our voice louder, and helps other find us. **Spread the word** within GitHub any way you can. Outside GitHub: share, [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fupend%2FIF_MS_BUYS_GITHUB_IMMA_OUT&text=Microsoft%20is%20trying%20to%20buy%20GitHub.%20Tell%20GitHub%20to%20%23resist.%20%23NeverMicrosoft.%20@upend%20the%20web%20oligarchy.) or post a link to this repo. Click the photo below to retweet it.
 
-You all are from so many countries. I apologize if my language is too American and hard to follow. Let me know if I should re-word anything.
+You all are from so many countries! That makes me happy. But also embarrassed that I might sound too American-centric. I'm not. Let me know if I should re-word anything.
 
 
 
