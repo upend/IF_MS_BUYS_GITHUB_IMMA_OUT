@@ -32,6 +32,13 @@ But you can also follow [upend.org on twitter](https://twitter.com/UpEnd_org). O
 
 
 
+## App/Services already destroyed by Microsoft acquisition
+- [Skype](http://www.debate.org/opinions/has-microsoft-ruined-skype)
+- [Sunrise calendar](https://en.wikipedia.org/wiki/Sunrise_Calendar)
+- Github?
+
+
+
 ## how to help
 
 If you have a way with words, or other ideas to further the cause, please create an issue or a pull request. Or send me an email at the above address.
