@@ -1,6 +1,6 @@
 # GitHub has sold us out. This is the GitHub Evacuation Center.
 
-It's done. GitHub has sold us out. But this is not the end, or even the beginning of the end. The world is the way it is because people give up too soon. **#Resistance** needs persistence and **#solidarity**. If not us, then whom?
+It's done. GitHub has sold us out. But this is not the end, or even the beginning of the end. The world is the way it is,s because people give up too soon. **#Resistance** needs persistence and **#solidarity**. If not us, then whom?
 
 ## status update
 
