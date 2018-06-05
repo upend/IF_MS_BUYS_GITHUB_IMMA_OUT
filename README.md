@@ -12,7 +12,7 @@ But some believe deeply that the open source community needs an independent home
 
 ## so, what's the goal?
 
-The immediate goal is to be a sort of **GitHub Evacuation Center.** A space for evacuees to declare their status (in **protest** to GitHub, Microsoft and the world). A space to learn or share **escape routes** — In the coming days we will collaboratively put together resources and guides on where best to move you and your projects and how.
+The immediate goal is to be a sort of **GitHub Evacuation Center.** A space for evacuees to declare their status (in **protest** to GitHub, Microsoft and the world). A space to learn or share **escape routes** — In the coming days we will collaboratively put together resources and guides on where best to move you and you're projects and how.
 
 Long term the goal is to seed a resistance movement for a free, open and people-driven internet in service of a free, open and people-driven world.
 
