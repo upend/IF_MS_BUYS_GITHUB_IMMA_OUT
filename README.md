@@ -1,20 +1,26 @@
 # GitHub has sold us out. This is the GitHub Evacuation Center.
 
-It's done. GitHub has sold us out. But this is not the end, or even the beginning of the end. The world is the way it is because people give up too soon. **#Resistance** needs persistence and **#solidarity**. If not us, then whom?
+Sold out.
+
+Some will go with the flow. Some look forward to the new overlords and their deep pockets.
+
+But some believe deeply that the open source community needs an independent home. Some believe that the concentration of so much power in the hands of so few is antithetical not just to free and open software, but also to a free and just society. We, the contributors and stargazers of this project are such people. This project is for us. **Star this repo** to count yourself in.
+
+*#Resist*
+
+
 
 ## status update
 
-**This repo is now [the 1st highest trending repo](https://github.com/trending) on GitHub** and already 1800 stars in only 3 days of existence. Traffic is growing exponentially. Thanks to all of you spreading the word.
+**This is [the #1 trending repo](https://github.com/trending) on GitHub**, with 2000 stars in its 3 days of existence. Traffic is growing exponentially with over 36,000 views and 11,000 visitors.
 
-![traffic](traffic.png)
+**Spread the word** within GitHub any way you can. Outside GitHub: share, [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fupend%2FIF_MS_BUYS_GITHUB_IMMA_OUT&text=Microsoft%20is%20trying%20to%20buy%20GitHub.%20Tell%20GitHub%20to%20%23resist.%20%23NeverMicrosoft.%20@upend%20the%20web%20oligarchy.) or post a link to this repo. Click the photo below to retweet it. Help people who want this find us.
 
-If you haven't already, please **star this repo**. Each star makes our voice louder, and helps others find us. **Spread the word** within GitHub any way you can. Outside GitHub: share, [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fupend%2FIF_MS_BUYS_GITHUB_IMMA_OUT&text=Microsoft%20is%20trying%20to%20buy%20GitHub.%20Tell%20GitHub%20to%20%23resist.%20%23NeverMicrosoft.%20@upend%20the%20web%20oligarchy.) or post a link to this repo. Click the photo below to retweet it.
-
-You all are from so many countries! That makes me happy. But also embarrassed that I might sound too American-centric. I'm not. Let me know if I should re-word anything.
+We all are from so many countries! I apologize if my English isn't the most international.
 
 
 
-## but what's the goal?
+## so, what's the goal?
 
 The immediate goal is to be a sort of **GitHub Evacuation Center.** A space for evacuees to declare their status (in **protest** to GitHub, Microsoft and the world). A space to learn or share **escape routes** — the best places to move you and your projects. (I'll create a page where we can collaborate on info like that, after I get some sleep.)
 
@@ -24,17 +30,17 @@ Long term the goal is to seed a resistance movement for a free, open and people-
 
 ## staying in the loop
 
-I've got to figure out how we stay connected, how best to enable collaboration. Would it be a contradiction or ironically perfect to do it on GitHub itself? If you have ideas, let me know. 
+We will figure out a way to stay connected, a way to collaboration on this. If you have ideas, let me know. For now I recommend you put a watch on this repo. You can also follow [upend.org on twitter](https://twitter.com/UpEnd_org) or send an email to github.evacuees@upend.org.
 
-Even though many of us (I hope all of us) will leave GitHub when we are able, some immediately, some only after they figure out the best alternative, it makes sense to keep this evacuee camp right here on GitHub. It will serve as a line of communication to people still on GitHub. If they shut this down, it will only validate our exodus. So even if you want to cut out immediately and delete everything, **consider keeping at least a bare presence and association with this repo**, at least until we make camp elsewhere.
-
-But you can also follow [upend.org on twitter](https://twitter.com/UpEnd_org). Or send an email to github.evacuees@upend.org. 
+As ironic as it may seem, it makes sense to keep this evacuation center right here on GitHub. For now at least. If they shut this down, it will only validate our exodus.
 
 
 
 ## how to help
 
-If you have a way with words, or other ideas to further the cause, please create an issue or a pull request. Or send me an email at the above address.
+A list of priority projects will appear right here in the coming days. In the meantime you can take a look at the issues and participate in the early discussions. 
+
+
 
 </br>
 
