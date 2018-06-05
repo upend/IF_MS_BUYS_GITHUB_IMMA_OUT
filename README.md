@@ -6,7 +6,7 @@ Some will go with the flow. Some look forward to the new overlords and their dee
 
 But some believe deeply that the open source community needs an independent home. Some believe that the concentration of so much power in the hands of so few is antithetical not just to free and open software, but also to a free and just society. We, the contributors and stargazers of this project are such people. This project is for us. **Star this repo** to count yourself in.
 
-*#Resist*
+ # *Resist*
 
 
 
