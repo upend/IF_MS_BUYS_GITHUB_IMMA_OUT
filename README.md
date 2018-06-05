@@ -37,5 +37,5 @@ A list of priority projects will appear right here in the coming days. In the me
 </br>
 
 
-[![IF_MS_BUYS_GITHUB_IMMA_OUT](IF_MS_BUYS_GITHUB_IMMA_OUT.jpg)](https://t.co/bbx5W8jbKc)
+[![IF_MS_BUYS_GITHUB_IMMA_OUT](IF_MS_BUYS_GITHUB_IMMA_OUT.png)](https://society.oftrolls.com/@tbr/100146799260080936)
 
