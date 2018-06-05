@@ -32,10 +32,4 @@ As ironic as it may seem, it makes sense to keep this evacuation center right he
 
 A list of priority projects will appear right here in the coming days. In the meantime you can take a look at the issues and participate in the early discussions.
 
-**Spread the word** within GitHub any way you can. Help people who'd want to be here find us. Outside GitHub: share, [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fupend%2FIF_MS_BUYS_GITHUB_IMMA_OUT&text=Microsoft%20is%20trying%20to%20buy%20GitHub.%20Tell%20GitHub%20to%20%23resist.%20%23NeverMicrosoft.%20@upend%20the%20web%20oligarchy.) or post a link to this repo. You can also click the photo below to retweet it.
-
-</br>
-
-
-[![IF_MS_BUYS_GITHUB_IMMA_OUT](IF_MS_BUYS_GITHUB_IMMA_OUT.jpg)](https://t.co/bbx5W8jbKc)
-
+**Spread the word** within GitHub any way you can. Help people who'd want to be here find us. Outside GitHub: share, [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fupend%2FIF_MS_BUYS_GITHUB_IMMA_OUT&text=Microsoft%20is%20trying%20to%20buy%20GitHub.%20Tell%20GitHub%20to%20%23resist.%20%23NeverMicrosoft.%20@upend%20the%20web%20oligarchy.) or post a link to this repo.
