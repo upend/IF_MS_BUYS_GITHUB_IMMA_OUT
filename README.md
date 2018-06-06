@@ -1,3 +1,12 @@
+> ## BREAKING NEWS: Microsoft GitHub just censored this project from its [Trending page](https://github.com/trending)
+
+We were #1 just before they removed us. Our star count continues to climb rapidly. We have not violated any terms of service.
+
+Is this Microsoft GitHub's commitment to an open platform for all projects? Will this repo be deleted too? Will other projects that compete with Microsoft products or challenge its dominance be on the chopping block next?
+
+
+</br>
+
 # GitHub has sold us out. This is the GitHub Evacuation Center.
 
 Sold out.
