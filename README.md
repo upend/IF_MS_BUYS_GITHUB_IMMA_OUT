@@ -1,8 +1,12 @@
-> ## BREAKING NEWS: Microsoft GitHub just censored this project from its [Trending page](https://github.com/trending)
+> ## BREAKING NEWS: Microsoft GitHub [just censored this project](https://twitter.com/UpEnd_org/status/1004292351643275264) from its Trending page
 
-We were #1 just before they removed us. Our star count continues to climb rapidly. We have not violated any terms of service.
+We were the #1 project and the #4 "developer" before they deleted us. [Maybe it was too embarrassing?](https://twitter.com/UpEnd_org/status/1004308027078578176)
+
+We have not violated any terms of service.
 
 Is this Microsoft GitHub's commitment to an open platform for all projects? Will this repo be deleted too? Will other projects that compete with Microsoft products or challenge its dominance be on the chopping block next?
+
+
 
 
 </br>
