@@ -34,5 +34,4 @@ A list of priority projects will appear right here in the coming days. In the me
 
 </br>
 
-(To anyone offended by the image previously here, [please read this](https://twitter.com/UpEnd_org/status/1004098207494877185).)
-
+[![IF_MS_BUYS_GITHUB_IMMA_OUT](IF_MS_BUYS_GITHUB_IMMA_OUT.jpg)](https://t.co/bbx5W8jbKc)
