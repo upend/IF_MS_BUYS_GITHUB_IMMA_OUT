@@ -31,21 +31,17 @@ Long term the goal is to seed a resistance movement for a free, open and people-
 
 ## status update
 
-**This is [the #1 trending repo](https://github.com/trending) on GitHub** with 3,300 stars on its 4th day of existence. There have been over 75,000 views and 21,000 visitors.
+**This ~~is~~ was [the #1 trending repo](https://github.com/trending) on GitHub** — until they censored us. We were gaining around 1,500 stars per day in only our 4th day of existence — until they buried us.  There have been over 122,000 views and over 33,000 unique visitors.
 
-We are still figuring out a way to stay connected, to keep everyone updated. If you have ideas, please share. For now I recommend you put a watch on this repo. You can also follow [upend.org on twitter](https://twitter.com/UpEnd_org) or send an email to github.evacuees@upend.org.
-
-As ironic as it may seem, it makes sense to keep this evacuation center right here on GitHub. For now at least. If they shut this down, it will only validate our exodus.
+To get notifications of updates, we recommend you place a watch on this repo. You can also follow [upend.org on twitter](https://twitter.com/UpEnd_org) or send an email to github.evacuees@upend.org.
 
 
 
 ## how to help
 
-A list of priority projects will appear right here in the coming days. In the meantime you can take a look at the [issues evacuees have opened](https://github.com/upend/IF_MS_BUYS_GITHUB_IMMA_OUT/issues) and participate in these early discussions.
+A list of priority projects will appear right here in the coming days.
 
 **Spread the word** within GitHub any way you can. Help people who'd want to be here find us. Outside GitHub: share, [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fupend%2FIF_MS_BUYS_GITHUB_IMMA_OUT&text=Microsoft%20is%20trying%20to%20buy%20GitHub.%20Tell%20GitHub%20to%20%23resist.%20%23NeverMicrosoft.%20@upend%20the%20web%20oligarchy.) or post a link to this repo.
 
-</br>
 
-(To anyone offended by the image previously here, [please read this](https://twitter.com/UpEnd_org/status/1004098207494877185).)
 
