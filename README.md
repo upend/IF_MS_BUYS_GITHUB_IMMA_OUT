@@ -39,7 +39,7 @@ To get notifications of updates, we recommend you place a watch on this repo. Yo
 
 ## how to help
 
-A list of priority projects will appear right here in the coming days.
+You can contribute in finding the best alternative(s) to GitHub at [bderiso/Microsoft-Github-acquisition](https://github.com/bderiso/Microsoft-Github-acquisition). This is the first step towards a complete migration off of GitHub.
 
 **Spread the word** within GitHub any way you can. Help people who'd want to be here find us. Outside GitHub: share, [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fupend%2FIF_MS_BUYS_GITHUB_IMMA_OUT&text=Microsoft%20is%20trying%20to%20buy%20GitHub.%20Tell%20GitHub%20to%20%23resist.%20%23NeverMicrosoft.%20@upend%20the%20web%20oligarchy.) or post a link to this repo.
 
