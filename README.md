@@ -1,3 +1,13 @@
+### 2018.06.15 
+
+> ## Relaunched on GitLab 
+
+The GitHub Evacuation Project has moved to GitLab (not an endorsement or even a final home). Your enthusiasm and contribution is still needed. Please check out [the new project home](https://gitlab.com/upend/github), and read [the project wiki](https://gitlab.com/upend/github/evac-guide/wikis) for info to get (re)started.
+
+
+
+</br>
+
 ### 2018.06.09 
 
 > ## GitHub Evacuation Project is evacuating GitHub! 
@@ -10,7 +20,7 @@ Upending Microsoft Github's dominance isn’t a one week or one month task. This
 
 While we figure this out, you can get update notifications by placing a watch on this repo, or by following us on [on twitter](https://twitter.com/upend_org). We will keep updating this repo on GitHub for all the people and projects who have not yet evacuated.
 
-If you'd like to help develop [The Evacuation Guide](#the-evacuation-guide), or on software we may develop to facilitate evacuation, or on the movement itself, please email github.evacuees@upend.org or send us a message [on twitter](https://twitter.com/upund_org).
+If you'd like to help develop [The Evacuation Guide](#the-evacuation-guide), or on software we may develop to facilitate evacuation, or on the movement itself, please email github.evacuees@upend.org or send us a message [on twitter](https://twitter.com/upend_org).
 
 
 
@@ -42,7 +52,7 @@ But some believe deeply that the open source community needs an independent home
 
 ## What are we going to do about it?
 
-The immediate goal was to provide a means for GitHub users to register their protest by starring this repo and spreading the word. We achieved that. **This ~~is~~ was [the #1 trending repo](https://github.com/trending) on GitHub** — until they censored us. We were gaining around 1,500 stars per day in only our 4th day of existence — until they buried us.  There have been over 132,000 views and over 35,000 unique visitors.
+The immediate goal was to provide a means for GitHub users to register their protest by starring this repo and spreading the word. We achieved that. **This ~~is~~ was [the #1 trending repo](https://github.com/trending) on GitHub** — until they censored us. We were gaining around 1,500 stars per day in only our 4th day of existence — until they buried us.  There have been over 135,000 views and over 36,000 unique visitors.
 
 The next goal was to bring people together to collaboratively put together resources and guides — **escape routes** for evacuees.
 
