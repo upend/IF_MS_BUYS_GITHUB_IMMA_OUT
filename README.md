@@ -81,7 +81,7 @@ We are developing an Evacuation Guide, but obviously not right here on Microsoft
 
 A list of priority projects will appear on this page as soon as we decide what they should be. Please check back if you are interested, or send us an email now and we'll update you.
 
-**Spread the word** within GitHub any way you can. Help people who'd want to be here find us. Outside GitHub: share, [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fupend%2FIF_MS_BUYS_GITHUB_IMMA_OUT&text=Microsoft%20is%20trying%20to%20buy%20GitHub.%20Tell%20GitHub%20to%20%23resist.%20%23NeverMicrosoft.%20@upend%20the%20web%20oligarchy.) or post a link to this repo.
+**Spread the word** within GitHub any way you can. Help people who'd want to find us by appending "ms acquisition evacuee" in your bio and forking and pinning this repo. Outside GitHub: share, [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fupend%2FIF_MS_BUYS_GITHUB_IMMA_OUT&text=Microsoft%20is%20trying%20to%20buy%20GitHub.%20Tell%20GitHub%20to%20%23resist.%20%23NeverMicrosoft.%20@upend%20the%20web%20oligarchy.) or post a link to this repo.
 
 
 
