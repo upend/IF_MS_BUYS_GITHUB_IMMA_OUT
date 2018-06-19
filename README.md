@@ -1,3 +1,14 @@
+<h1 style="font-size:400%"><img align="middle" src="http://www.upend.org/github/evacuee.png" alt="GitHub Evacuation Project logo" width="256" height="256">GitHub Evacuation Project</h1>
+
+> ## Help move a movement
+
+Star this repo to add your voice.
+
+If you've already evacuated or plan to, consider replacing your profile picture with [the red logo above](http://www.upend.org/github/evacuee.png) and adding the words "github evacuee" to your profile. If you've moved any repos it's a good idea to put a forwarding address on the README you leave behind on GitHub. Tag the repo `github-evacuee` (click "manage topics" at the top of your repo). These little steps can help spur a movement and give moral support to those on the fence.
+
+</br>
+
+
 ### 2018.06.15 
 
 > ## Relaunched on GitLab 
@@ -40,7 +51,7 @@ Is this Microsoft GitHub's commitment to an open platform for all projects? Will
 
 </br></br>
 
-# GitHub has sold us out. This is the GitHub Evacuation Project.
+# GitHub has sold us out.
 
 Sold out.
 
@@ -52,7 +63,7 @@ But some believe deeply that the open source community needs an independent home
 
 ## What are we going to do about it?
 
-The immediate goal was to provide a means for GitHub users to register their protest by starring this repo and spreading the word. We achieved that. **This ~~is~~ was [the #1 trending repo](https://github.com/trending) on GitHub** — until they censored us. We were gaining around 1,500 stars per day in only our 4th day of existence — until they buried us.  There have been over 135,000 views and over 36,000 unique visitors.
+The immediate goal was to provide a means for GitHub users to register their protest by starring this repo and spreading the word. We achieved that. **This ~~is~~ was [the #1 trending repo](https://github.com/trending) on GitHub** — until they censored us. We were gaining around 1,500 stars per day in only our 4th day of existence — until they buried us.  In the first week there were over 130,000 views and over 35,000 unique visitors.
 
 The next goal was to bring people together to collaboratively put together resources and guides — **escape routes** for evacuees.
 
